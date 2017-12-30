@@ -1,12 +1,12 @@
 body {
-    background-color: #04A6EB;
+    background-color: #A4A6EB;
     color: #FDFFFA;
     width: 500px;
     margin-right: auto;
     margin-left: auto;
 }
 button{
-    padding: 5px 30px;
+    padding: 5px 15px;
     background-color: #337AB7;
     color: #FDFFFA;
     border-color: #2E6DA4;
